@@ -2,6 +2,4 @@ seaborn
 matplotlib
 pandas
 numpy
-sklearn.preprocessing
-sklearn.linear_model
-sklearn.metrics
+scikit-learn
