@@ -1,3 +1,4 @@
+tensorflow[and-cuda]
 seaborn
 matplotlib
 pandas
