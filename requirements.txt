@@ -1,3 +1,4 @@
+tensorflow[and-cuda]
 seaborn
 matplotlib
 pandas
@@ -5,3 +6,4 @@ numpy
 scikit-learn
 scipy
 statsmodels
+opencv-python
