@@ -1,5 +1,4 @@
 /data/*
 !/data/.gitkeep
 py311/
-*.pdf
 *.png
